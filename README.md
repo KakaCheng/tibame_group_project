@@ -15,7 +15,7 @@ git clone https://github.com/KakaCheng/tibame_group_project.git
 pip install -r requirements.txt
 ```
 
-## 演算法
+## 情緒辨識演算法
 ### 訓練模型
 1. 使用Kaggle人臉情緒資料集\[3]
 ![image](https://github.com/KakaCheng/tibame_group_project/blob/41ed239efb17a799b0020629882327090b9df3d1/pic/001.png)
