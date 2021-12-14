@@ -2,3 +2,4 @@ __pycache__
 *pyc
 haarcascade_frontalface_default.xml
 model.h5
+.vscode/launch.json

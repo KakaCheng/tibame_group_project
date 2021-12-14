@@ -1,3 +1,5 @@
 numpy
 opencv-python
 tensorflow
+dlib
+scikit-learn
